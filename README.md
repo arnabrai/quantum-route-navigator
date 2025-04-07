@@ -1,40 +1,42 @@
-# Welcome to your Lovable project
+# Welcome to our project
 
-## Project info
+# Quantum Route Navigator 🚀🧠
 
-**URL**: https://lovable.dev/projects/28af4b75-fff2-45cc-a3f0-7091aa80504c
+A futuristic route optimization tool that leverages the power of **Quantum Algorithms** and **Classical Solvers** to solve complex routing problems efficiently. Built with ❤️ using **React**, **TypeScript**, **TailwindCSS**, and **QAOA/QUBO** quantum models.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌟 Features
 
-**Use Lovable**
+- 🧠 Hybrid Quantum-Classical route optimization
+- 📈 Visualization of route comparison & efficiency
+- ⚙️ Modular, component-based architecture
+- 🧩 Extendable quantum models (QUBO, QAOA, etc.)
+- ⚡ Built using modern frontend tools (Vite, Tailwind, ShadCN/UI)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/28af4b75-fff2-45cc-a3f0-7091aa80504c) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Tech Stack
 
-**Use your preferred IDE**
+| Area         | Tech Used                                      |
+|--------------|------------------------------------------------|
+| Frontend     | React, TypeScript, Vite, TailwindCSS           |
+| UI Framework | ShadCN/UI, Lucide Icons                        |
+| State        | React Hooks                                    |
+| Quantum      | Custom QUBO & QAOA algorithms                  |
+| Tooling      | ESLint, Prettier, Git                          |
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## ⚙️ Getting Started
 
-Follow these steps:
+Clone the repo and install dependencies:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+```bash
+git clone https://github.com/arnabrai/quantum-route-navigator.git
+cd quantum-route-navigator
+npm install
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
 **Edit a file directly in GitHub**
 
